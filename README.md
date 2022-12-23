@@ -38,7 +38,7 @@ The user can also install the application through chrome browser by clicking the
 
 ## Road Map 
 
-Future iterations of this application will include a working install button. 
+Future iterations of this application will include a working install button and a deployed heroku application. 
 
 ## License 
 
